@@ -1,0 +1,1 @@
+{"version":3,"pages404":true,"basePath":"","redirects":[],"headers":[],"dynamicRoutes":[{"page":"/dogs/[breed]","regex":"^/dogs/([^/]+?)(?:/)?$","routeKeys":{"breed":"breed"},"namedRegex":"^/dogs/(?<breed>[^/]+?)(?:/)?$"}],"dataRoutes":[],"rewrites":[]}
